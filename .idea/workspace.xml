@@ -74,7 +74,7 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="14" selection-start="675" selection-end="675" vertical-scroll-proportion="0.59210527">
+            <state line="24" column="14" selection-start="675" selection-end="675" vertical-scroll-proportion="0.4534005">
               <folding />
             </state>
           </provider>
@@ -113,7 +113,7 @@
     <option name="x" value="66" />
     <option name="y" value="52" />
     <option name="width" value="587" />
-    <option name="height" value="812" />
+    <option name="height" value="998" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -172,6 +172,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="caddie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="caddie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -630,7 +644,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="52" width="587" height="812" extended-state="4" />
+    <frame x="66" y="52" width="587" height="998" extended-state="5" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -796,7 +810,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="14" selection-start="675" selection-end="675" vertical-scroll-proportion="0.59210527">
+        <state line="24" column="14" selection-start="675" selection-end="675" vertical-scroll-proportion="0.4534005">
           <folding />
         </state>
       </provider>
